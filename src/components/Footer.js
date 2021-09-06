@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = () => (
   <footer>
-    <p>Mute Swan 2021</p>
+    <p>Mute Swan 20d21</p>
   </footer>
 );
 
