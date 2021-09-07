@@ -1,8 +1,10 @@
 import React from "react";
+import '../App.scss'
+
 
 const Footer = () => (
-  <footer>
-    <p>Mute Swan 20d21</p>
+  <footer className="footer">
+    <p>Mute Swan 2021</p>
   </footer>
 );
 
